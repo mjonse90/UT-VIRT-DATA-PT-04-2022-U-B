@@ -1,10 +1,10 @@
 Sub datatypes()
 
-Dim Name As Object
-Dim Age As Object
-Dim CanSimplyWalkIntoMordor As Object
-Dim Birthdate As Object
-Dim MilesWalked As Object
+Dim Name As String
+Dim Age As Integer
+  Dim CanSimplyWalkIntoMordor As String
+  Dim Birthdate As Integer
+  Dim MilesWalked As Integer
 
 Name = "Frodo"
 Age = 33
